@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Arkanoid.cpp
+d:\games\doodle jump\arkanoid\arkanoid\arkanoid.cpp(12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\games\doodle jump\arkanoid\arkanoid\arkanoid.cpp(33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\games\doodle jump\arkanoid\arkanoid\arkanoid.cpp(69): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  Arkanoid.vcxproj -> D:\Games\Doodle Jump\Arkanoid\Debug\Arkanoid.exe
+  Arkanoid.vcxproj -> D:\Games\Doodle Jump\Arkanoid\Debug\Arkanoid.pdb (Partial PDB)
