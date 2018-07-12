@@ -1,1 +1,2 @@
 # Arkanoid
+SMFL Library required
